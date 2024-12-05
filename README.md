@@ -5,3 +5,8 @@ A simple and intuitive flashcard web application that allows users to create, ed
 ## Features
 
 - **Create New Flashcards**: Users can input a question, an answer, and select a category to save a new flashcard.
+- **Edit Flashcards**: Users can modify existing flashcards.
+- **Delete Flashcards**: Users can delete flashcards when no longer needed.
+- **Toggle Answer Visibility**: Users can toggle between showing or hiding the answer of a flashcard.
+- **Categorization**: Flashcards are categorized into predefined categories (e.g., General Knowledge, Science, History).
+- **Data Persistence**: Flashcards are saved to localStorage, allowing them to persist even after page reloads.
