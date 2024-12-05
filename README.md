@@ -19,6 +19,6 @@ A simple and intuitive flashcard web application that allows users to create, ed
 - **Bootstrap**: Used for layout and responsive design.
 - **Remix Icons**: For icons like delete, edit, etc.
 
-## Screenshots
+## Screenshot
 
-![Screenshot](ui.png)
+![Screenshot](flashcard_ui.png)
