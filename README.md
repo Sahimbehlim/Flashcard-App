@@ -18,3 +18,9 @@ A simple and intuitive flashcard web application that allows users to create, ed
 - **JavaScript**: Application logic for handling flashcards (creating, editing, saving to localStorage, etc.).
 - **Bootstrap**: Used for layout and responsive design.
 - **Remix Icons**: For icons like delete, edit, etc.
+
+/flashcard-web-app
+├── index.html # Main HTML file
+├── style.css # Styling for the app
+├── app.js # JavaScript file that powers the flashcards functionality
+└── README.md # Project documentation
