@@ -4,4 +4,4 @@ A simple and intuitive flashcard web application that allows users to create, ed
 
 ## Features
 
--**Create New Flashcards**: Users can input a question, an answer, and select a category to save a new flashcard.
+- **Create New Flashcards**: Users can input a question, an answer, and select a category to save a new flashcard.
